@@ -6,7 +6,7 @@ This document contains system requirements for a simple console based calculator
 
 - [Sum] - Will add two integers. Example: 356 + 27 = 383
 
-- [Difference] - Will subtract two integers. Example: 485 - 129 = 356
+- [Difference] - Will substract two integers. Example: 485 - 129 = 356
 
 - [Multiply] - Will multiply two integers. Example: 312 * 34 = 10608
 
