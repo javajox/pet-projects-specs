@@ -6,14 +6,14 @@ This document contains system requirements for a simple console based calculator
 
 - [Sum] - Will add two integers. Example: 356 + 27 = 383
 
-- [Difference] - Will substract two integers. Example: 485 - 129 = 356
+- [Difference] - Will subtract one integer from another. Example: 485 - 129 = 356
 
 - [Multiply] - Will multiply two integers. Example: 312 * 34 = 10608
 
 During his work, the user will see the following menu:
 
     'a' - add two integers
-    'd' - substract two integers
+    'd' - subtract two integers
     'm' - multiply two integers
     'x' - exit the system
 
@@ -27,9 +27,9 @@ The calculator will be a simple console application which will operate in a loop
 
 In order to add two integers the user will invoke "add" operation by pressing '**a**' key. The system will ask for the first and second operand. After having both operands the system will perform "addition" on integers.
 
-### Substract two integers
+### Subtract two integers
 
-In order to substract two integers the user will invoke "substract" operation by pressing '**d**' key. The system will ask for the first and second operand. The first operand will pe *op1* and second one *op2*. After having both operands the system will substract *op2* from *op1*.
+In order to subtract two integers the user will invoke "subtract" operation by pressing '**d**' key. The system will ask for the first and second operand. The first operand will pe *op1* and second one *op2*. After having both operands the system will subtract *op2* from *op1*.
 
 ### Multiply two integers
 
