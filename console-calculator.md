@@ -12,10 +12,10 @@ This document contains system requirements for a simple console based calculator
 
 During his work, the user will see the following menu:
 
-    'a' - add two integers
-    's' - subtract two integers
-    'm' - multiply two integers
-    'x' - exit the system
+- '**a**' - add two integers
+- '**s**' - subtract two integers
+- '**m**' - multiply two integers
+- '**x**' - exit the system
 
 ## General description
 
