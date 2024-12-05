@@ -25,19 +25,19 @@ The calculator will be a simple console application which will operate in a loop
 
 ### Add two integers
 
-In order to add two integers the user will invoke "add" operation by pressing '**a**' key. The system will ask for the first and second operand. After having both operands the system will perform "addition" on integers.
+In order to add two integers the user will invoke "add" operation by pressing '**a**' (**a** from **a**dd) key. The system will ask for the first and second operand. After having both operands the system will perform "addition" on integers.
 
 ### Subtract two integers
 
-In order to subtract two integers the user will invoke "subtract" operation by pressing '**d**' key. The system will ask for the first and second operand. The first operand will pe *op1* and second one *op2*. After having both operands the system will subtract *op2* from *op1*.
+In order to subtract two integers the user will invoke "subtract" operation by pressing '**s**' (**s** from **s**ubtract) key. The system will ask for the first and second operand. The first operand will pe *op1* and second one *op2*. After having both operands the system will subtract *op2* from *op1*.
 
 ### Multiply two integers
 
-In order to multiply two integers the user will invoke "multiply" operation by pressing '**m**' key. The system will ask for the first and second operand. After having both operands the system will perform "multiply" on integers. 
+In order to multiply two integers the user will invoke "multiply" operation by pressing '**m**' (**m** from **m**ultiply) key. The system will ask for the first and second operand. After having both operands the system will perform "multiply" operation on integers. 
 
 ### Exit the system
 
-By pressing '**x**' (from eXit) key, the user will exit from system
+By pressing '**x**' (from e**X**it) key, the user will exit from system
 
 ## Errors
 
