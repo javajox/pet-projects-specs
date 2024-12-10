@@ -61,7 +61,7 @@ such an id does not exit
 
 ### Insert a node
 
-The user will enter the id after which this new node will be inserted. Next he will provide
+Inserts a new node into a specific position. The user will enter the id after which this new node will be inserted. Next he will provide
 the new id and data. This new id must not be present in the list.
 
 ### Update a node
