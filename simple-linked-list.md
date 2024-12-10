@@ -17,6 +17,7 @@ The application will operate in a loop. During his work, the user will see the f
 
 - '**a**' - add a new node
 - '**r**' - remove a node
+- '**i**' - insert a node
 - '**u**' - update a node
 - '**c**' - count how many nodes are present
 - '**e**' - erase the list
@@ -50,10 +51,18 @@ The user will enter the following information
 - **data**, a string
 - **id_after**, the id of the node after which this new one will be added
 
+If the list is empty, then this will be the first and last node. If it is not empty it will
+be added at the end.
+
 ### Remove a node
 
 The user will enter the id of the node which he wants to remove. The operation will fail if 
 such an id does not exit
+
+### Insert a node
+
+The user will enter the id after which this new node will be inserted. Next he will provide
+the new id and data. This new id must not be present in the list.
 
 ### Update a node
 
